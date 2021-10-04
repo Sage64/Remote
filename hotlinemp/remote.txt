@@ -4,6 +4,7 @@
 		"file_url": ""
 	},
 	"users": {
-		"2640127c7f1e6cabb4438c0f097443bd": {"is_dev": 1.0, "is_vip": 1.0 }
+		"2640127c7f1e6cabb4438c0f097443bd": {"is_dev": 1.0, "is_vip": 1.0 },
+		"726b115b4ab0972088478a746162620a": { "is_vip": 1.0 }
 	}
 }

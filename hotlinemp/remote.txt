@@ -1,0 +1,9 @@
+{
+	"game": {
+		"version": 1.0,
+		"file_url": ""
+	},
+	"users": {
+		"2640127c7f1e6cabb4438c0f097443bd": {"is_dev": 1.0, "is_vip": 1.0 }
+	}
+}

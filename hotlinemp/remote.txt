@@ -4,7 +4,8 @@
 		"file_url": ""
 	},
 	"users": {
-		"2640127c7f1e6cabb4438c0f097443bd": { "is_dev": 1.0, "is_vip": 1.0 },
-		"3896bd09ea860e1e6188e3d613f276ef": { "is_vip": 1.0 }
+		"2640127c7f1e6cabb4438c0f097443bd": { "name": "sage";, "is_dev": 1.0, "is_vip": 1.0 },
+		"3896bd09ea860e1e6188e3d613f276ef": { "name": "microbro", "is_vip": 1.0 },
+		"34d58996a1fe64cf83a1657294e2b6cd": { "name": "dappy", "is_vip": 1.0 }
 	}
 }

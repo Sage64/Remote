@@ -1,7 +1,6 @@
 {
 	"game": {
 		"version": 0.1,
-		"file_url": "",
 		"file_key": "894860816057253888/hotlinemp2.zip",
 		
 		"0": {}
